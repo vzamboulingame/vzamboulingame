@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Vinodh and I'm a Web Developer from France</h4>
+<h4 align="left">My name is Vinodh and I'm a Developer / DBA from France</h4>
 
 ###
 
@@ -19,15 +19,17 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="30" alt="react logo"  />
+  <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Redux-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
-  <img width="5" />
-  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" height="30" alt="react-router logo"  />
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Express.js-404D59?logoColor=white&style=for-the-badge" height="30" alt="expressjs logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/Redux.js-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
+  <img width="5" />
+  <img src="https://img.shields.io/badge/React_Router-CA4245?logo=react-router&logoColor=white&style=for-the-badge" height="30" alt="react-router logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?logo=tailwindcss&logoColor=white&style=for-the-badge" height="30" alt="tailwindcss logo"  />
   <img width="5" />
