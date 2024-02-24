@@ -19,6 +19,8 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="5" />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img width="5" />
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white&style=for-the-badge" height="30" alt="nextjs logo"  />
