@@ -19,7 +19,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=for-the-badge" height="30" alt="typescript logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="30" alt="typescript logo"  />
+  <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54&style=for-the-badge" height="30" alt="python logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/React.js-20232A?logo=react&logoColor=61DAFB&style=for-the-badge" height="30" alt="react logo"  />
   <img width="5" />
@@ -27,7 +27,7 @@
   <img width="5" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="30" alt="nodejs logo"  />
   <img width="5" />
-  <img src="https://img.shields.io/badge/Express.js-404D59?logoColor=white&style=for-the-badge" height="30" alt="expressjs logo"  />
+  <img src="https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB&style=for-the-badge" height="30" alt="expressjs logo"  />
   <img width="5" />
   <img src="https://img.shields.io/badge/Redux.js-764ABC?logo=redux&logoColor=white&style=for-the-badge" height="30" alt="redux logo"  />
   <img width="5" />
