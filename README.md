@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Vinodh and I'm a DBA / SysAdmin / Developer from France</h4>
+<h4 align="left">My name is Vinodh and I'm a Web Developer / DBA from France</h4>
 
 ###
 
