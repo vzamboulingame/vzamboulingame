@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">My name is Vinodh and I'm a Analytics Engineer / Data Engineer from France</h4>
+<h4 align="left">My name is Vinodh and I'm a Data & Analytics Engineer from France</h4>
 
 ###
 
